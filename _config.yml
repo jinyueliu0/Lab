@@ -22,7 +22,7 @@ title: Liu Jinyue Lab
 email: Liu_Jinyue@gis.a-star.edu.sg
 name: Liu Jinyue
 description: >- # this means to ignore newlines until "baseurl:"
-  Homepage for Single Cell Spatial Transcriptomic Laboratory.
+  Homepage for Single Cell Spatial Neuromics Laboratory.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jellymaxd.github.io/Lab/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
