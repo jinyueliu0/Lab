@@ -1,0 +1,12 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+<style>
+
+p{color:white !important;}
+</style>
+
+ **We are recruiting! Join us and take a deep-dive into the brain. Contact us at liu_jinyue@gis.a-star.edu.sg**
+
+ **We are located at Biopolis, Genome building, 60 Biopolis St, Singapore 138672**
+
+---
