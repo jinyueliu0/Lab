@@ -1,0 +1,220 @@
+
+body {
+    margin: 60px auto;
+    width: 80%;
+    background-color: #F0F3F4
+}
+
+
+
+/*
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+*/
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: none;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+
+ul.posts li {
+    list-style: none;
+}
+
+.researchtext {
+    font-size: 1em;
+    line-height: 1.1em;
+    color: #333;
+}
+
+.joinus-parent{ 
+    background-color:white;
+}
+  
+.joinus-child {
+width: 40%;
+height: 40%;
+background-color:white;
+/* Center vertically and horizontally */
+margin:auto;
+ /* apply negative top and left margins to truly center the element */
+}
+
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:40%;
+    position:absolute;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:60%;
+    width:80%;
+    position:absolute;
+    }
+
+.col-sm-6 {
+        text-align: center;
+        text-align: center;
+        margin: 25px 0;
+    }
+
+
+.jumbotron {
+    position: relative;
+    background:none;
+    height: 300px;
+    background-image: url(../resources/titleimage.png);
+}
+.jumbotron:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../resources/titleimage.png);
+    /*Background vector created by starline - www.freepik.com*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    opacity : 0.2;
+    z-index: -1;
+}
+
+.div-title{
+    text-align: left;
+    margin: 20px 5px;
+    border-bottom: 2px solid #d5d5d5;
+}
+
+
+.blurb-out{
+    margin: 25px 0px;
+    background-color: white;
+    border-top: 1px solid #d5d5d5;
+}
+.blurb-in {
+    margin: 10px;
+    background-color: white;
+    
+}
+
+.cnt-block equal-hight{
+    text-align: center
+}
+
+.inline-block {
+   display: inline-block;
+}
+
+.row.heading h2 {
+    color: #fff;
+    font-size: 52.52px;
+    line-height: 95px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 40px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+
+
+
+.heading.heading-icon {
+    display: block;
+}
+.padding-lg {
+    display: block;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+
+
+.divider {
+    border-top: 1px solid #000;
+    margin-top: 20px;
+    padding-top: 10px;
+  }
+  
+.divider h2 {
+font-size: 18px;
+font-weight: bold;
+text-align: center;
+}
+	
+/* .css for "fun" section */
+.responsive-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px;
+  }
+  
+  .responsive-image-container {
+    text-align: center;
+  }
+  
+  .image-box {
+    width: 100%;
+    height: 0;
+    padding-bottom: 75%; /* For an aspect ratio of 4:3, use 75%. Adjust this as needed. */
+    position: relative; /* Relative positioning so that the img can be absolutely positioned */
+  }
+  
+  .responsive-image-container img {
+    position: absolute; /* Absolute positioning */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: fill; /* Images will stretch to fill their containers */
+  }
+  
+  figcaption {
+    text-align: center;
+  }
+  
+  @media (max-width: 767px) {
+    .responsive-container {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+  }
+  
+  @media (max-width: 479px) {
+    .responsive-container {
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+  }
+  

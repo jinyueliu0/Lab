@@ -1,0 +1,15 @@
+_config.yml: general config
+index.html: linker to individual sections
+layout/default.html: defined general template for nav bar, title section and footer
+                     To edit title text: in default.html\
+                     To edit title image: in css/main.css, looking for .jumbotron
+                     To edit footer(contactus) text: in contactus.md
+                     To edit footer(contactus) background-image, google map: in default.html
+404.html: page for not found
+
+markdown_intro: general rule for markdown
+research.md: content for research section, edit both image and text here
+team.md: content for team section, edit both image and text here
+publication.md: content for publication section, edit both image and text here
+news.md: content for news section, edit both image and text here
+contactus.md: text for contactus section, edit text here, image in default.html footer tag
