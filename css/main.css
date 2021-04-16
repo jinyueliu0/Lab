@@ -5,6 +5,8 @@ body {
     background-color: #F0F3F4
 }
 
+
+
 /*
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -28,11 +30,8 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
+
+
 footer {
     background-color: black;
     color: white;
@@ -45,21 +44,42 @@ ul.posts {
     font-size: 1.5em;
 }
 
+
 ul.posts li {
     list-style: none;
 }
 
+.researchtext {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+.joinus-parent{ 
+    background-color:white;
+}
+  
+.joinus-child {
+width: 40%;
+height: 40%;
+background-color:white;
+/* Center vertically and horizontally */
+margin:auto;
+ /* apply negative top and left margins to truly center the element */
+}
+
+
 .map-container{
     overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
+    padding-bottom:40%;
+    position:absolute;
     height:0;
     }
     .map-container iframe{
     left:0;
     top:0;
-    height:100%;
-    width:100%;
+    height:60%;
+    width:80%;
     position:absolute;
     }
 
@@ -74,7 +94,7 @@ ul.posts li {
     position: relative;
     background:none;
     height: 300px;
-    background-image: url(../resources/whitehero.jpg);
+    background-image: url(../resources/titleimage.png);
 }
 .jumbotron:after {
     content : "";
@@ -82,7 +102,7 @@ ul.posts li {
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url(../resources/whitehero.jpg);
+    background-image: url(../resources/titleimage.png);
     /*Background vector created by starline - www.freepik.com*/
     background-repeat: no-repeat;
     background-position: center;
@@ -125,11 +145,7 @@ ul.posts li {
     padding-bottom: 20px;
     text-transform: uppercase;
 }
-ul{
-    margin:0;
-    padding:0;
-    list-style:none;
-}
+
 
 
 .heading.heading-icon {

@@ -5,16 +5,8 @@
 
 
 
-<div class="container-fluid bg-black" style="background-color:black">
-  <div class="row">
-    <div class="col-sm-6">
-      <img src="resources/research.png" width="400" height="400">
-    </div>
-    <div class="col-sm-6">
-        <br><br><br><br>
-      <p style="color: white">
+<div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:400px;">
+      <p class="researchtext" style="color: white; text-align:center; padding-top:150px">
         We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being.
       </p>
-    </div>
-  </div>
 </div>
