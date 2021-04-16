@@ -60,7 +60,7 @@
     <div class="joinus-parent">
       <div class="joinus-child">
            <figure><img src="resources/joinus.jpg" class="img-responsive" alt=""></figure>
-           <h3 style="text-align:center"><a href="#contactus">Are you the next? </a></h3>
+           <h3 style="text-align:center"><a href="#contactus">Are you next? </a></h3>
       </div>
     </div>
   </div>

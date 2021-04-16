@@ -11,8 +11,8 @@
    2. Liu J. and Sanes J.R. Cellular and molecular analysis of dendritic morphogenesis in a retinal cell type that   senses color contrast and ventral motion. Journal of Neuroscience, 2017 Dec; 37(50) 12247-12262- Featured on journal cover and chapter cover in Principles of Neural Science, 6e edited by Eric Kandel et al.
       </p>
       </div>
-      <div class="col-sm-6" style="padding-left:200px">
-          <img src="resources/Liu and Sanes 2017 with cover.png" height=350px weight=300px> 
+      <div class="col-sm-6" style="padding-left:300px">
+          <img src="resources/Liu and Sanes 2017 with cover.png" height=200px weight=150px> 
       </div>
   </div>
 </div>

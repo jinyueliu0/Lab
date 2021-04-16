@@ -7,6 +7,6 @@ p{color:white !important;}
 
  **We are recruiting! Join us and take a deep-dive into the brain. Contact us at liu_jinyue@gis.a-star.edu.sg**
 
- **We are located at Biopolis, Genome building, 60 Biopolis St, Singapore 138672**
+ **We are located at Genome Institute of Singapore, Biopolis, 60 Biopolis St, Singapore 138672**
 
 ---
