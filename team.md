@@ -12,10 +12,10 @@
     <!--Meet out team-->
     <h3 style="text-align:center"> Meet our team </h3><br><br>
     <!--List of teammates-->
-    <ul class="row" style="margin:20px 0">
+    <ul class="row" style="margin:20px 0;">
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure style="margin:auto;">
             <!--img-->
             <img src="resources/Liu Jinyue.jpg"  
@@ -32,7 +32,7 @@
       </li>
        <!--Weiping-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
             <img src="resources/LI WEI-PING-cropped.jpg" height="250px" class="img-responsive" alt="">
@@ -45,7 +45,7 @@
       </li>
        <!--Paolo-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
             <img src="resources/anonymous.jpg" height="250px"
@@ -58,7 +58,7 @@
        </li>
        <!--xudong-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
             <img src="resources/Guoxudong.png" height="250px" class="img-responsive" alt="">
@@ -71,6 +71,7 @@
     </ul>
     <!--dummy row to hold future teammates-->
     <ul class="row" style="margin:20px 0">
+    <!--new member-->
     </ul>
     <!--Join us section-->
     <!--a href="http://www.freepik.com">join us image designed by rawpixel.com / Freepik</a-->
