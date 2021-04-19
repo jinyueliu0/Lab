@@ -3,7 +3,7 @@
 
 
 <!--publications 1 without image, simple markdown text-->
-   1. Liu J., Reggiani J.D.S., Laboulaye M.A., Pandey S., Chen B., Rubenstein J.L.R., Krishnaswamy A., Sanes J.R. Tbr1 instructs laminar patterning of retinal ganglion cell dendrites. Nature Neuroscience 2018 May; 21(5):659-670. [Image 1]
+   1. Liu J., Reggiani J.D.S., Laboulaye M.A., Pandey S., Chen B., Rubenstein J.L.R., Krishnaswamy A., Sanes J.R. Tbr1 instructs laminar patterning of retinal ganglion cell dendrites. Nature Neuroscience 2018 May; 21(5):659-670.
   <hr style="border:2px solid gray"> </hr>
 
 <!--publications 2 with image, enclose text in p tag-->
