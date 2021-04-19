@@ -12,7 +12,7 @@
     <!--Meet out team-->
     <h3 style="text-align:center"> Meet our team </h3><br><br>
     <!--List of teammates-->
-    <ul class="row" style="margin:20px 0">
+    <ul class="row" style="margin:0 0">
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
