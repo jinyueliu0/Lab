@@ -29,5 +29,5 @@
   * **Check out Jinyue's poster presentation at The Advances in Genome Biology and Technology (AGBT) 2020!**
 
 <p align="center">
-  <img src="resources/Final_poster_LJY_210220_ds.png" width=500 height=350>
+  <img src="resources/Final_poster_LJY_210220_ds.png" width=600 height=420>
 </p>
