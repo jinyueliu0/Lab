@@ -17,9 +17,9 @@
 ---
 
 <!--news 3 with normal links-->
-  * Jinyue's research journey was featured on BrightSparks Magazine
+  * Jinyue's research journey was featured on BrightSparks Magazine:
 
-    * [BrightSparks Magazine:](https://brightsparks.com.sg/magazine/july-2020/astar-researchers-of-tomorrow.php)
+    * [BrightSparks Magazine](https://brightsparks.com.sg/magazine/july-2020/astar-researchers-of-tomorrow.php)
 
   ---
 
