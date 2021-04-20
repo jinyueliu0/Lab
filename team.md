@@ -8,9 +8,8 @@
  
  <!--text and image-->
  <div class="container">
-    <br>
     <!--Meet out team-->
-    <h3 style="text-align:center"> Meet our team </h3><br>
+    <h3 style="text-align:center"> Meet our team </h3>
     <!--List of teammates-->
     <ul class="row" style="margin:20px 0;">
       <!--Jinyue-->
