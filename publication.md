@@ -5,7 +5,7 @@
 <!--publications 1 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
-        <p>1. Liu J., Reggiani J.D.S., Laboulaye M.A., Pandey S., Chen B., Rubenstein J.L.R., Krishnaswamy A., Sanes J.R. Tbr1 instructs laminar patterning of retinal ganglion cell dendrites. Nature Neuroscience 2018 May; 21(5):659-670. 
+        <p>1. **Liu J.**, Reggiani J.D.S., Laboulaye M.A., Pandey S., Chen B., Rubenstein J.L.R., Krishnaswamy A., Sanes J.R. Tbr1 instructs laminar patterning of retinal ganglion cell dendrites. Nature Neuroscience 2018 May; 21(5):659-670. 
         </p>
   </div>
    
@@ -16,12 +16,13 @@
     <div class="row">
       <div class="col-sm-6" >
         <!--publication text-->
-        <p>2. Liu J. and Sanes J.R. Cellular and molecular analysis of dendritic morphogenesis in a retinal cell typethat senses color contrast and ventral motion. Journal of Neuroscience, 2017 Dec; 37(50) 12247-12262-Featured on journal cover and chapter cover in Principles of Neural Science, 6e edited by Eric Kandel et al.
+        <p>2. **Liu J.** and Sanes J.R. Cellular and molecular analysis of dendritic morphogenesis in a retinal cell type that senses color contrast and ventral motion. Journal of Neuroscience, 2017 Dec; 37(50) 12247-12262.
+         ** Featured on journal cover and chapter cover in Principles of Neural Science, 6e edited by Eric Kandel et al.**
         </p>
       </div>
       <!--journal image-->
       <div class="col-sm-6" style="padding-left:300px">
-          <img src="resources/Liu and Sanes 2017 with cover.png" height=200px weight=150px> 
+          <img src="resources/Liu and Sanes 2017 with cover.png" height=300px weight=225px> 
       </div>
     </div>
   </div>  
@@ -31,7 +32,7 @@
 <!--publications 3 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
-        <p>3. Duan X., Krishnaswamy A., Laboulaye M.A., Liu J., Peng Y.R., Yamagata M., Toma K. and Sanes J.R. Cadherin Combinations Recruit Dendrites of Distinct Retinal Neurons to a Shared Interneuronal Scaffold. Neuron 2018 Sept; 1145-1154.e6.
+        <p>3. Duan X., Krishnaswamy A., Laboulaye M.A., **Liu J.**, Peng Y.R., Yamagata M., Toma K. and Sanes J.R. Cadherin Combinations Recruit Dendrites of Distinct Retinal Neurons to a Shared Interneuronal Scaffold. Neuron 2018 Sept; 1145-1154.e6.
         </p>
   </div>
   
@@ -40,7 +41,7 @@
 <!--publications 4 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
-        <p>4. Agathocleous, M., Love N.K., Randlett O., Harris J.J., Liu J., Murray A.J., Harris W.A. Metabolic differentiation in the embryonic retina. Nature Cell Biology 2012 Aug; 14(8) 859-64. Featured in publications and Views.
+        <p>4. Agathocleous, M., Love N.K., Randlett O., Harris J.J., **Liu J.**, Murray A.J., Harris W.A. Metabolic differentiation in the embryonic retina. Nature Cell Biology 2012 Aug; 14(8) 859-64. **Featured in News and Views.**
         </p>
   </div>
 
