@@ -41,7 +41,7 @@
 <!--publications 4 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
-        <p>4. Agathocleous, M., Love N.K., Randlett O., Harris J.J., <b>Liu J.<\b>, Murray A.J., Harris W.A. Metabolic differentiation in the embryonic retina. Nature Cell Biology 2012 Aug; 14(8) 859-64. <i>Featured in News and Views.</i>
+        <p>4. Agathocleous, M., Love N.K., Randlett O., Harris J.J., <b>Liu J.</b>, Murray A.J., Harris W.A. Metabolic differentiation in the embryonic retina. Nature Cell Biology 2012 Aug; 14(8) 859-64. <i>Featured in News and Views.</i>
         </p>
   </div>
 
