@@ -23,7 +23,7 @@
             </figure>
             <h3 style="text-align:center">Jinyue Liu </h3>
             <p style="text-align:center">
-            GIS Fellow | Junior Principal Investigator </p>
+            Junior Principal Investigator | GIS Fellow </p>
             <p style="text-align:center">
             Ph.D. in Neurobiology, Harvard University, USA </p>
             <p style="text-align:center">        
@@ -38,7 +38,7 @@
             <img src="resources/LI WEI-PING-cropped.jpg" height="250px" class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Wei-Ping Li </h3>
-            <p style="text-align:center">Research officer</p>
+            <p style="text-align:center">Research Officer</p>
             <p style="text-align:center">M.S. in Molecular Neuroscience, National Yang-Ming University, Taiwan </p>
             <p style="text-align:center">B.S. in Life Sciences, National Yang-Ming University, Taiwan </p>
         </div>
