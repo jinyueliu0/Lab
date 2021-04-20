@@ -17,11 +17,11 @@
       <div class="col-sm-6" >
         <!--publication text-->
         <p> <br><br><br>2. <b>Liu J.</b> and Sanes J.R. Cellular and molecular analysis of dendritic morphogenesis in a retinal cell type that senses color contrast and ventral motion. Journal of Neuroscience, 2017 Dec; 37(50) 12247-12262.
-         <i>Featured on journal cover and chapter cover in Principles of Neural Science, 6e edited by Eric Kandel et al.</i>
+         <br><i>Featured on journal cover and chapter cover in Principles of Neural Science, 6e edited by Eric Kandel et al.</i>
         </p>
       </div>
       <!--journal image-->
-      <div class="col-sm-6" style="padding-left:300px">
+      <div class="col-sm-6" style="padding-left:200px">
           <img src="resources/Liu and Sanes 2017 with cover.png" height=300px weight=225px> 
       </div>
     </div>
@@ -50,7 +50,7 @@
 <!--publications 5 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
-        <p>5. Liu J.</b>† The Anatomy and Physiology of Direction-Selective Retinal Ganglion Cells. Webvision: The Organization of the Retina and Visual System. Salt Lake City (UT): University of Utah Health Sciences Center Aug 20, 2015; http://www.ncbi.nlm.nih.gov/books/NBK321299 †Corresponding author 
+        <p>5. <b>Liu J.</b>† The Anatomy and Physiology of Direction-Selective Retinal Ganglion Cells. Webvision: The Organization of the Retina and Visual System. Salt Lake City (UT): University of Utah Health Sciences Center Aug 20, 2015; http://www.ncbi.nlm.nih.gov/books/NBK321299 †Corresponding author 
         </p>
   </div>
 
