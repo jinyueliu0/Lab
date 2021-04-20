@@ -22,7 +22,9 @@
             </figure>
             <h3 style="text-align:center">Jinyue Liu </h3>
             <p style="text-align:center">
-            Junior Principal Investigator | GIS Fellow </p>
+            Junior Principal Investigator</p>
+            <p style="text-align:center">
+             | GIS Fellow </p>
             <p style="text-align:center">
             Ph.D. in Neurobiology, Harvard University, USA </p>
             <p style="text-align:center">        
