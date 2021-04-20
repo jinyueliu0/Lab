@@ -25,9 +25,9 @@
             <p style="text-align:center">
             GIS Fellow | Junior Principal Investigator </p>
             <p style="text-align:center">
-            Ph.D. in Neurobiology, Harvard University </p>
+            Ph.D. in Neurobiology, Harvard University, USA </p>
             <p style="text-align:center">        
-            BA in Natural Sciences, University of Cambridge </p>
+            BA in Natural Sciences, University of Cambridge, UK </p>
           </div>
       </li>
        <!--Weiping-->
