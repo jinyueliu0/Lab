@@ -26,7 +26,7 @@
 ---
 
 <!--news 4 with images-->
-  * **Check out Jinyue's poster presentation at The Advances in Genome Biology and Technology (AGBT) 2020!**
+  * Check out Jinyue's poster presentation at The Advances in Genome Biology and Technology (AGBT) 2020!
 
 <p align="center">
   <img src="resources/Final_poster_LJY_210220_ds.png" width=600 height=420>
