@@ -12,11 +12,11 @@
       </p>
       <p class="researchtext" style="color: white; text-align:center">
         Requirements: <br />
-         * Ph.D. in RNA biology, molecular & cell biology, neurobiology or related disciplines <br />
-         * Mastery in iPSC culture, nucleic acid techniques, biological imaging, transcriptomics <br />
-         * Able to independently design, execute and troubleshoot experimental paradigms <br />
-         * Demonstrated abilities in single-cell or spatial transcriptomics, bioinformatics or programming highly desirable <br />
-         * Good publication record <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Ph.D. in RNA biology, molecular & cell biology, neurobiology or related disciplines <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Mastery in iPSC culture, nucleic acid techniques, biological imaging, transcriptomics <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Able to independently design, execute and troubleshoot experimental paradigms <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Demonstrated abilities in single-cell or spatial transcriptomics, bioinformatics or programming highly desirable <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br />
       </p>   
       
 </div>
