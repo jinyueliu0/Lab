@@ -5,6 +5,18 @@
 <!--text and image-->
 <div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:400px;">
       <p class="researchtext" style="color: white; text-align:center; padding-top:150px">
-        We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being.
+        We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being. 
+        Our Laboratory of Single-Cell Spatial Neuromics is based at Genome Institute of Singapore, A*STAR. 
       </p>
+      <p> 
+        We are hiring! We are seeking a postdoctoral fellow interested in developing spatial transcriptomics technologies for neurobiology applications. Successful candidate will lead and execute the development of novel assays to characterize cellular and molecular changes in neurological disorders. 
+      </p>
+      <p>
+        Requirements: 
+         * Ph.D. in RNA biology, molecular & cell biology, neurobiology or related disciplines
+         * Mastery in iPSC culture, nucleic acid techniques, biological imaging, transcriptomics
+         * Able to independently design, execute and troubleshoot experimental paradigms
+         * Demonstrated abilities in single-cell or spatial transcriptomics, bioinformatics or programming highly desirable
+         * Good publication record
+      </p>   
 </div>
