@@ -11,12 +11,12 @@
         We are hiring! We are seeking a postdoctoral fellow interested in developing spatial transcriptomics technologies for neurobiology applications. Successful candidate will lead and execute the development of novel assays to characterize cellular and molecular changes in neurological disorders. If interested, please contact liu_jinyue@gis.a-star.edu.sg. 
       </p>
       <p class="researchtext" style="color: white; text-align:center">
-        Requirements: 
-         * Ph.D. in RNA biology, molecular & cell biology, neurobiology or related disciplines
-         * Mastery in iPSC culture, nucleic acid techniques, biological imaging, transcriptomics
-         * Able to independently design, execute and troubleshoot experimental paradigms
-         * Demonstrated abilities in single-cell or spatial transcriptomics, bioinformatics or programming highly desirable
-         * Good publication record
+        Requirements: <br />
+         * Ph.D. in RNA biology, molecular & cell biology, neurobiology or related disciplines <br />
+         * Mastery in iPSC culture, nucleic acid techniques, biological imaging, transcriptomics <br />
+         * Able to independently design, execute and troubleshoot experimental paradigms <br />
+         * Demonstrated abilities in single-cell or spatial transcriptomics, bioinformatics or programming highly desirable <br />
+         * Good publication record <br />
       </p>   
       
 </div>
