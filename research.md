@@ -5,9 +5,9 @@
 <!--text and image-->
 <div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:400px;">
       <p class="researchtext" style="color: white; text-align:center; padding-top:25px">
-        We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being. We are based at Genome Institute of Singapore, Agency for Science, Technology and Research. 
+        We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being. 
       </p>
-      <p class="researchtext" style="color: white; text-align:center"> <font size="1">
+      <p class="researchtext" style="color: white; text-align:center"> <font size="10">
         If you are interested in developing spatial transcriptomics technologies for neurobiology applications, join us! Successful candidates will lead and execute the development of novel assays to characterize cellular and molecular changes in neurological disorders. Contact liu_jinyue@gis.a-star.edu.sg 
       </p>
       <p class="researchtext" style="color: white; text-align:center">
