@@ -7,7 +7,7 @@
       <p class="researchtext" style="color: white; text-align:center; padding-top:25px">
         We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being. We are based at Genome Institute of Singapore, Agency for Science, Technology and Research. 
       </p>
-      <p class="researchtext" style="color: white; text-align:center"> 
+      <p class="researchtext" style="color: white; text-align:center"> <font size="1">
         We are hiring! We are seeking a postdoctoral fellow interested in developing spatial transcriptomics technologies for neurobiology applications. Successful candidate will lead and execute the development of novel assays to characterize cellular and molecular changes in neurological disorders. If interested, please contact liu_jinyue@gis.a-star.edu.sg. 
       </p>
       <p class="researchtext" style="color: white; text-align:center">
@@ -16,7 +16,7 @@
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Mastery in iPSC culture, nucleic acid techniques, biological imaging, transcriptomics <br />
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Able to independently design, execute and troubleshoot experimental paradigms <br />
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Demonstrated abilities in single-cell or spatial transcriptomics, bioinformatics or programming highly desirable <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br /> </font>
       </p>   
       
 </div>
