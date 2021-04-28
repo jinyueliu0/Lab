@@ -4,14 +4,13 @@
 
 <!--text and image-->
 <div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:400px;">
-      <p class="researchtext" style="color: white; text-align:center; padding-top:150px">
-        We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being. 
-        Our Laboratory of Single-Cell Spatial Neuromics is based at Genome Institute of Singapore, A*STAR. 
+      <p class="researchtext" style="color: white; text-align:center; padding-top:25px">
+        We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being. We are based at Genome Institute of Singapore, Agency for Science, Technology and Research. 
       </p>
-      <p> 
-        We are hiring! We are seeking a postdoctoral fellow interested in developing spatial transcriptomics technologies for neurobiology applications. Successful candidate will lead and execute the development of novel assays to characterize cellular and molecular changes in neurological disorders. 
+      <p class="researchtext" style="color: white; text-align:center> 
+        We are hiring! We are seeking a postdoctoral fellow interested in developing spatial transcriptomics technologies for neurobiology applications. Successful candidate will lead and execute the development of novel assays to characterize cellular and molecular changes in neurological disorders. if interested, please contact liu_jinyue@gis.a-star.edu.sg. 
       </p>
-      <p>
+      <p class="researchtext" style="color: white; text-align:center>
         Requirements: 
          * Ph.D. in RNA biology, molecular & cell biology, neurobiology or related disciplines
          * Mastery in iPSC culture, nucleic acid techniques, biological imaging, transcriptomics
@@ -19,4 +18,5 @@
          * Demonstrated abilities in single-cell or spatial transcriptomics, bioinformatics or programming highly desirable
          * Good publication record
       </p>   
+      
 </div>
