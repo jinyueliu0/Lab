@@ -8,7 +8,7 @@
         <b> We develop and apply nucleic acid-based technologies to investigate the human brain in healthy and diseased states, so as to identify therapeutic portals for improving mental well-being. </b>
       <p> <font size="2">  &nbsp; </p>
       </p>
-      <p class="researchtext" style="color: white; text-align:center"> <font size="4">
+      <p class="researchtext" style="color: white; text-align:center; padding-left: 70px; padding-right: 70px"> <font size="4">
         If you are interested in developing spatial transcriptomics technologies for neurobiology applications, join us! Successful candidates will lead and execute the development of novel assays to characterize cellular and molecular changes in neurological disorders. Contact liu_jinyue@gis.a-star.edu.sg 
       </p>
       <p class="researchtext" style="color: white; text-align:center">
