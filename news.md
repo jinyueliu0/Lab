@@ -27,7 +27,6 @@
 
     * [BrightSparks Magazine](https://brightsparks.com.sg/magazine/july-2020/astar-researchers-of-tomorrow.php)
 
-  ---
 
 ---
 
