@@ -20,7 +20,7 @@
             <img src="resources/Liu Jinyue.jpg"  
             height="250px" class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Jinyue Liu </h3>
+            <h3 style="text-align:center">Jinyue Liu</h3>
             <p style="text-align:center">Junior Principal Investigator &nbsp;| GIS Fellow </p>
             <p style="text-align:center">Ph.D. in Neurobiology, Harvard University, USA </p>
             <p style="text-align:center">B.A. in Natural Sciences, University of Cambridge, UK </p>
@@ -47,7 +47,7 @@
             <img src="resources/Ong Sui Ping.jpg" height="250px"
             class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Ong Sui Ping</h3>
+            <h3 style="text-align:center">Sui Ping Ong</h3>
             <p style="text-align:center">Senior Research Officer</p>
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
@@ -59,7 +59,7 @@
             <!--img-->
             <img src="resources/anonymous.jpg" height="250px" class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Xudong Guo </h3>
+            <h3 style="text-align:center">Zhiyi Zhang</h3>
             <p style="text-align:center">Undergraduate Intern</p>
             <p style="text-align:center">Nanyang Technological University, Singapore</p>
           </div>
