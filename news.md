@@ -1,6 +1,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
+<!--news 1 with normal links-->
+  * Congratulations to Jinyue for making it onto the Singapore 100 Women in Tech List!  
+  
+     * [On SG100WIT 2021 List - Citations - Singapore Computer Society (scs.org.sg)](https://www.scs.org.sg/sg100wit-2021-list-citations)
+     * [On Linkedin](https://www.linkedin.com/posts/singapore-computer-society_the-singapore-100-women-in-tech-sg100wit-activity-6854618731985936384-Hcj8)
+
 
 <!--news 1 with normal links-->
   * Jinyue presented a Plenary Talk at the Advances in Genome Biology and Technology 2021 on "Integrative analysis of single-cell transcriptomics with multiplexed RNA imaging for mapping autism pathophysiology". Check out the news:
