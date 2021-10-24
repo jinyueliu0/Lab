@@ -9,7 +9,7 @@
 
   ---
 <!--news 1 with normal links-->
-  * Jinyue presented a Plenary Talk at the Advances in Genome Biology and Technology 2021 on "Integrative analysis of single-cell transcriptomics with multiplexed RNA imaging for mapping autism pathophysiology". Check out the news:
+  * Jinyue presented a Plenary Talk at the Advances in Genome Biology and Technology 2021 General Meeting on "Integrative analysis of single-cell transcriptomics with multiplexed RNA imaging for mapping autism pathophysiology". Check out the news:
   
      * [On genomeweb](https://www.genomeweb.com/business-news/spatial-omics-firms-use-agbt-launchpad-new-tech#.YHhIn-j7RPZ )
      * [On twitter](https://twitter.com/search?q=jinyue%20liu%20agbt21&src=typed_query)
@@ -23,7 +23,7 @@
 ---
 
 <!--news 3 with normal links-->
-  * Jinyue's research journey was featured on BrightSparks Magazine:
+  * Learn about Jinyue's research journey on BrightSparks Magazine:
 
     * [BrightSparks Magazine](https://brightsparks.com.sg/magazine/july-2020/astar-researchers-of-tomorrow.php)
 
@@ -31,7 +31,7 @@
 ---
 
 <!--news 4 with images-->
-  * Check out Jinyue's poster presentation at The Advances in Genome Biology and Technology (AGBT) 2020!
+  * Check out our poster presentation at The Advances in Genome Biology and Technology (AGBT) 2020 General meeting!
 
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/Final_poster_LJY_210220_ds.png" width=600 height=420>
