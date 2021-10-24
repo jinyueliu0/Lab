@@ -26,42 +26,42 @@
             <p style="text-align:center">B.A. in Natural Sciences, University of Cambridge, UK </p>
           </div>
       </li>
-       <!--Weiping-->
+       <!--Benny-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
-            <img src="resources/LI WEI-PING-cropped.jpg" height="250px" class="img-responsive" alt="">
+            <img src="resources/Benny.jpg" height="250px" class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Wei-Ping Li </h3>
-            <p style="text-align:center">Research Officer</p>
-            <p style="text-align:center">M.S. in Molecular Neuroscience, National Yang-Ming University, Taiwan </p>
-            <p style="text-align:center">B.S. in Life Sciences, National Yang-Ming University, Taiwan </p>
+            <h3 style="text-align:center">Benny Wang </h3>
+            <p style="text-align:center">Post Doctoral Fellow</p>
+            <p style="text-align:center">Ph.D. Nanyang Technological University, Singapore</p>
+            <p style="text-align:center"> </p>
         </div>
       </li>
-       <!--Paolo-->
+       <!--Sui Ping-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
-            <img src="resources/anonymous.jpg" height="250px"
+            <img src="resources/Ong Sui Ping.jpg" height="250px"
             class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Paolo Lorenzini </h3>
-            <p style="text-align:center">Postdoctoral Fellow</p>
-            <p style="text-align:center">Ph.D. in Molecular Biology and Computer Science, Nanyang Technological University, Singapore</p>
+            <h3 style="text-align:center">Ong Sui Ping</h3>
+            <p style="text-align:center">Senior Research Officer</p>
+            <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
        </li>
-       <!--xudong-->
+       <!--Zhang Zhiyi-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
-            <img src="resources/Guoxudong.png" height="250px" class="img-responsive" alt="">
+            <img src="resources/anonymous.jpg" height="250px" class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Xudong Guo </h3>
-            <p style="text-align:center">Intern</p>
-            <p style="text-align:center">B.S. in Computer Science, Nanyang Technological University, Singapore</p>
+            <p style="text-align:center">Undergraduate Intern</p>
+            <p style="text-align:center">Nanyang Technological University, Singapore</p>
           </div>
       </li>
     </ul>
