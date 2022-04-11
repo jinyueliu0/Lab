@@ -21,7 +21,7 @@
             height="250px" class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Jinyue Liu</h3>
-            <p style="text-align:center">Senior Research Scientist </p>
+            <p style="text-align:center">Senior Research Scientist</p>
             <p style="text-align:center">Ph.D. in Neurobiology, Harvard University, USA </p>
             <p style="text-align:center">B.A. in Natural Sciences, University of Cambridge, UK </p>
           </div>
