@@ -118,6 +118,6 @@
         <h3 style="text-align:center">Jolyn Lim</h3>
         <p style="text-align:center">Student Attachment</p>
       </div>
-        </li>
-      </ul>         
+     </li>
+   </ul>         
   </div>
