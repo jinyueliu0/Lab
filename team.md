@@ -13,11 +13,11 @@
     <ul class="row" style="margin:20px 0;">
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="inline-block" style="height: 500px;">
+          <div class="inline-block" style="height: 200px;">
             <figure style="margin:auto;text-align:center;">
             <!--img-->
             <img src="resources/Liu Jinyue.png"  
-            height="250px" class="img-responsive" alt="">
+            height="200px" class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Jinyue Liu</h3>
             <p style="text-align:center">Principal Investigator</p>
@@ -25,11 +25,11 @@
       </li>
      <!--Nur' Ain-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-         <div class="inline-block" style="height: 500px;">
+         <div class="inline-block" style="height: 200px;">
           <figure style = "margin:auto;text-align:center;">
           <!--img-->
           <img src="/resources/Nur'Ain.png" 
-          height="250px" class="img-responsive" alt="">
+          height="200px" class="img-responsive" alt="">
           </figure>
           <h3 style="text-align:center">Nur' Ain Binte Ali</h3>
           <p style="text-align:center">Senior Research Officer</p>
@@ -37,10 +37,10 @@
      </li> 
      <!--Bao Quyen-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-      <div class="inline-block" style="height: 500px;">
+      <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
-        <img src="/resources/Quyen_Do.png" height="250px"
+        <img src="/resources/Quyen_Do.png" height="200px"
         class="img-responsive" alt="">
         </figure>
         <h3 style="text-align:center">Quyen Do</h3>
@@ -49,10 +49,10 @@
      </li>  
      <!--Jolene-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-       <div class="inline-block" style="height: 500px;">
+       <div class="inline-block" style="height: 200px;">
           <figure style = "text-align:center;">
           <!--img-->
-          <img src="/resources/Jolene_Goh.png" height="250px"
+          <img src="/resources/Jolene_Goh.png" height="200px"
           class="img-responsive" alt="">
           </figure>
           <h3 style="text-align:center">Jolene Goh</h3>
@@ -61,10 +61,10 @@
       </li> 
      <!--Eugene-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-      <div class="inline-block" style="height: 500px;">
+      <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
-         <img src="/resources/Eugene_Kwa.png" height="250px"
+         <img src="/resources/Eugene_Kwa.png" height="200px"
          class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center">Eugene Kwa Jing</h3>
@@ -73,10 +73,10 @@
      </li> 
      <!--Aimee-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-      <div class="inline-block" style="height: 500px;">
+      <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
-         <img src="/resources/Aimee_Tapoan.png" height="250px" 
+         <img src="/resources/Aimee_Tapoan.png" height="200px" 
          class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center">Aimee Tapoan</h3>
@@ -85,10 +85,10 @@
      </li> 
       <!--Matas-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="inline-block" style="height: 500px;">
+          <div class="inline-block" style="height: 200px;">
             <figure style = "text-align:center;">
             <!--img-->
-            <img src="resources/Matas_Vitkauskas.png" height="250px" 
+            <img src="resources/Matas_Vitkauskas.png" height="200px" 
             class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Matas Vitkauskas</h3>
@@ -97,10 +97,10 @@
        </li> 
      <!--Jessica-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-        <div class="inline-block" style="height: 500px;">
+        <div class="inline-block" style="height: 200px;">
           <figure style = "text-align:center;">
           <!--img-->
-          <img src="/resources/Jessica_Xie.png" height="250px" 
+          <img src="/resources/Jessica_Xie.png" height="200px" 
           class="img-responsive" alt="">
           </figure>
           <h3 style="text-align:center">Jessica Xie Jiaxin</h3>
@@ -109,10 +109,10 @@
      </li> 
      <!--Jolyn -->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-      <div class="inline-block" style="height: 500px;">
+      <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
-        <img src="/resources/Jolyn_Lim.png" height="250px"
+        <img src="/resources/Jolyn_Lim.png" height="200px"
         class="img-responsive" alt="">
         </figure>
         <h3 style="text-align:center">Jolyn Lim</h3>
