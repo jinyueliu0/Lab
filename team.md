@@ -28,7 +28,7 @@
          <div class="inline-block" style="height: 200px;">
           <figure style = "margin:auto;text-align:center;">
           <!--img-->
-          <img src="/resources/Nur'Ain.png" 
+          <img src="resources/Nur'Ain.png" 
           height="200px" class="img-responsive" alt="">
           </figure>
           <h3 style="text-align:center">Nur' Ain Binte Ali</h3>
@@ -40,7 +40,7 @@
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
-        <img src="/resources/Quyen_Do.png" height="200px"
+        <img src="resources/Quyen_Do.png" height="200px"
         class="img-responsive" alt="">
         </figure>
         <h3 style="text-align:center">Quyen Do</h3>
@@ -52,7 +52,7 @@
        <div class="inline-block" style="height: 200px;">
           <figure style = "text-align:center;">
           <!--img-->
-          <img src="/resources/Jolene_Goh.png" height="200px"
+          <img src="resources/Jolene_Goh.png" height="200px"
           class="img-responsive" alt="">
           </figure>
           <h3 style="text-align:center">Jolene Goh</h3>
@@ -64,7 +64,7 @@
       <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
-         <img src="/resources/Eugene_Kwa.png" height="200px"
+         <img src="resources/Eugene_Kwa.png" height="200px"
          class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center">Eugene Kwa Jing</h3>
@@ -76,7 +76,7 @@
       <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
-         <img src="/resources/Aimee_Tapoan.png" height="200px" 
+         <img src="resources/Aimee_Tapoan.png" height="200px" 
          class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center">Aimee Tapoan</h3>
@@ -100,7 +100,7 @@
         <div class="inline-block" style="height: 200px;">
           <figure style = "text-align:center;">
           <!--img-->
-          <img src="/resources/Jessica_Xie.png" height="200px" 
+          <img src="resources/Jessica_Xie.png" height="200px" 
           class="img-responsive" alt="">
           </figure>
           <h3 style="text-align:center">Jessica Xie Jiaxin</h3>
@@ -112,7 +112,7 @@
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
-        <img src="/resources/Jolyn_Lim.png" height="200px"
+        <img src="resources/Jolyn_Lim.png" height="200px"
         class="img-responsive" alt="">
         </figure>
         <h3 style="text-align:center">Jolyn Lim</h3>
