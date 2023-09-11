@@ -131,12 +131,10 @@ margin:auto;
     
 }
 
-.cnt-block equal-hight{
-    text-align: center
-}
 
 .inline-block {
    display: inline-block;
+   text-align: center
 }
 
 .row.heading h2 {
