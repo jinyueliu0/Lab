@@ -25,15 +25,15 @@
       </li>
      <!--Nur' Ain-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-      <div class="inline-block" style="height: 500px;">
-        <figure style = "text-align:center;">
-        <!--img-->
-        <img src="/resources/Nur'Ain.png" height="250px"
-        class="img-responsive" alt="">
-        </figure>
-        <h3 style="text-align:center">Nur' Ain Binte Ali</h3>
-        <p style="text-align:center">Senior Research Officer</p>
-      </div>
+         <div class="inline-block" style="height: 500px;">
+          <figure style = "margin:auto;text-align:center;">
+          <!--img-->
+          <img src="/resources/Nur'Ain.png" 
+          height="250px" class="img-responsive" alt="">
+          </figure>
+          <h3 style="text-align:center">Nur' Ain Binte Ali</h3>
+          <p style="text-align:center">Senior Research Officer</p>
+        </div>
      </li> 
      <!--Bao Quyen-->
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
