@@ -12,111 +12,111 @@
     <!--List of teammates-->
     <ul class="row" style="margin:20px 0;">
       <!--Jinyue-->
-      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="inline-block" style="height: 200px;">
             <figure style="margin:auto;text-align:center;">
             <!--img-->
             <img src="resources/Liu Jinyue.png"  
             height="200px" class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Jinyue Liu</h3>
-            <p style="text-align:center">Principal Investigator</p>
+            <h3 style="text-align:center; line-height:1;">Jinyue Liu</h3>
+            <p style="text-align:center; line-height:1;">Principal Investigator</p>
           </div>
       </li>
      <!--Nur' Ain-->
-     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
          <div class="inline-block" style="height: 200px;">
           <figure style = "margin:auto;text-align:center;">
           <!--img-->
           <img src="resources/Nur'Ain.png" 
           height="200px" class="img-responsive" alt="">
           </figure>
-          <h3 style="text-align:center">Nur' Ain Binte Ali</h3>
-          <p style="text-align:center">Senior Research Officer</p>
+          <h3 style="text-align:center; line-height:1;">Nur' Ain Binte Ali</h3>
+          <p style="text-align:center; line-height:1;">Senior Research Officer</p>
         </div>
      </li> 
      <!--Bao Quyen-->
-     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Quyen_Do.png" height="200px"
         class="img-responsive" alt="">
         </figure>
-        <h3 style="text-align:center">Quyen Do</h3>
-        <p style="text-align:center">Research fellow</p>
+        <h3 style="text-align:center; line-height:1;">Quyen Do</h3>
+        <p style="text-align:center; line-height:1;">Research fellow</p>
       </div>
      </li>  
      <!--Jolene-->
-     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
           <figure style = "text-align:center;">
           <!--img-->
           <img src="resources/Jolene_Goh.png" height="200px"
           class="img-responsive" alt="">
           </figure>
-          <h3 style="text-align:center">Jolene Goh</h3>
-          <p style="text-align:center">Senior Research Officer</p>
+          <h3 style="text-align:center; line-height:1;">Jolene Goh</h3>
+          <p style="text-align:center; line-height:1;">Senior Research Officer</p>
         </div>
       </li> 
      <!--Eugene-->
-     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
          <img src="resources/Eugene_Kwa.png" height="200px"
          class="img-responsive" alt="">
          </figure>
-         <h3 style="text-align:center">Eugene Kwa Jing</h3>
-         <p style="text-align:center">Research Fellow</p>
+         <h3 style="text-align:center; line-height:1;">Eugene Kwa Jing</h3>
+         <p style="text-align:center; line-height:1;">Research Fellow</p>
        </div>
      </li> 
      <!--Aimee-->
-     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
          <img src="resources/Aimee_Tapoan.png" height="200px" 
          class="img-responsive" alt="">
          </figure>
-         <h3 style="text-align:center">Aimee Tapoan</h3>
-         <p style="text-align:center">Lab Officer</p>
+         <h3 style="text-align:center; line-height:1;">Aimee Tapoan</h3>
+         <p style="text-align:center; line-height:1;">Lab Officer</p>
        </div>
      </li> 
       <!--Matas-->
-      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="inline-block" style="height: 200px;">
             <figure style = "text-align:center;">
             <!--img-->
             <img src="resources/Matas_Vitkauskas.png" height="200px" 
             class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Matas Vitkauskas</h3>
-            <p style="text-align:center">Research Officer</p>
+            <h3 style="text-align:center; line-height:1;">Matas Vitkauskas</h3>
+            <p style="text-align:center; line-height:1;">Research Officer</p>
           </div>
        </li> 
      <!--Jessica-->
-     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
         <div class="inline-block" style="height: 200px;">
           <figure style = "text-align:center;">
           <!--img-->
           <img src="resources/Jessica_Xie.png" height="200px" 
           class="img-responsive" alt="">
           </figure>
-          <h3 style="text-align:center">Jessica Xie Jiaxin</h3>
-          <p style="text-align:center">Research Fellow</p>
+          <h3 style="text-align:center; line-height:1;">Jessica Xie Jiaxin</h3>
+          <p style="text-align:center; line-height:1;">Research Fellow</p>
         </div>
      </li> 
      <!--Jolyn -->
-     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none; line-height:1;">
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Jolyn_Lim.png" height="200px"
         class="img-responsive" alt="">
         </figure>
-        <h3 style="text-align:center">Jolyn Lim</h3>
-        <p style="text-align:center">Student Attachment</p>
+        <h3 style="text-align:center; line-height:1;">Jolyn Lim</h3>
+        <p style="text-align:center; line-height:1;">Student Attachment</p>
       </div>
      </li>
    </ul>         
