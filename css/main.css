@@ -134,7 +134,13 @@ margin:auto;
 
 .inline-block {
    display: inline-block;
-   text-align: center
+   text-align: center;
+   vertical-align: middle;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
 }
 
 .row.heading h2 {
