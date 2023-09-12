@@ -197,7 +197,7 @@ text-align: center;
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: fill; /* Images will stretch to fill their containers */
+    object-fit: cover; /* Images will stretch to fill their containers */
   }
   
   figcaption {
@@ -206,7 +206,7 @@ text-align: center;
   
   @media (max-width: 767px) {
     .responsive-container {
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
   }
   
