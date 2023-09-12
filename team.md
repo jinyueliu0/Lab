@@ -17,7 +17,7 @@
             <figure style="margin:auto;text-align:center;">
             <!--img-->
             <img src="resources/Liu Jinyue.png"  
-            height="200px" class="img-responsive" alt="">
+            height="200px" class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
             </figure>
             <h3 style="text-align:center; line-height:1;">Jinyue Liu</h3>
             <p style="text-align:center; line-height:1;">Principal Investigator</p>
@@ -29,7 +29,7 @@
            <figure style = "margin:auto;text-align:center;">
            <!--img-->
            <img src="resources/Nur'Ain.png" 
-           height="200px" class="img-responsive" alt="">
+           height="200px" class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
            </figure>
            <h3 style="text-align:center; line-height:1;">Nur' Ain Binte Ali</h3>
            <p style="text-align:center; line-height:1;">Senior Research Officer</p>
@@ -41,7 +41,7 @@
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Quyen_Do.png" height="200px"
-        class="img-responsive" alt="">
+        class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
         </figure>
         <h3 style="text-align:center; line-height:1;">Quyen Do</h3>
         <p style="text-align:center; line-height:1;">Research fellow</p>
@@ -53,7 +53,7 @@
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Jolene_Goh.png" height="200px"
-        class="img-responsive" alt="">
+        class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
         </figure>
         <h3 style="text-align:center; line-height:1;">Jolene Goh</h3>
         <p style="text-align:center; line-height:1;">Senior Research Officer</p>
@@ -65,7 +65,7 @@
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Eugene_Kwa.png" height="200px"
-        class="img-responsive" alt="">
+        class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
         </figure>
         <h3 style="text-align:center; line-height:1;">Eugene Kwa Jing</h3>
         <p style="text-align:center; line-height:1;">Research Fellow</p>
@@ -80,7 +80,7 @@
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Aimee_Tapoan.png" height="200px" 
-        class="img-responsive" alt="">
+        class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
         </figure>
         <h3 style="text-align:center; line-height:1;">Aimee Tapoan</h3>
         <p style="text-align:center; line-height:1;">Lab Officer</p>
@@ -92,7 +92,7 @@
          <figure style = "text-align:center;">
          <!--img-->
          <img src="resources/Matas_Vitkauskas.png" height="200px" 
-         class="img-responsive" alt="">
+         class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
          </figure>
          <h3 style="text-align:center; line-height:1;">Matas Vitkauskas</h3>
          <p style="text-align:center; line-height:1;">Research Officer</p>
@@ -104,7 +104,7 @@
           <figure style = "text-align:center;">
           <!--img-->
           <img src="resources/Jessica_Xie.png" height="200px" 
-          class="img-responsive" alt="">
+          class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
           </figure>
           <h3 style="text-align:center; line-height:1;">Jessica Xie Jiaxin</h3>
           <p style="text-align:center; line-height:1;">Research Fellow</p>
@@ -116,7 +116,7 @@
          <figure style = "text-align:center;">
          <!--img-->
          <img src="resources/Jolyn_Lim.png" height="200px"
-         class="img-responsive" alt="">
+         class="img-fluid" style="max-width: 100%; max-height: 100%;" alt="">
          </figure>
          <h3 style="text-align:center; line-height:1;">Jolyn Lim</h3>
          <p style="text-align:center; line-height:1;">Student Attachment</p>
