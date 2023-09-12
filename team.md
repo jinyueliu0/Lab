@@ -12,7 +12,7 @@
     <!--List of teammates-->
     <ul class="row" style="margin:20px 0;">
       <!--Jinyue-->
-      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+      <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
           <div class="inline-block" style="height: 200px;">
             <figure style="margin:auto;text-align:center;">
             <!--img-->
@@ -24,7 +24,7 @@
           </div>
       </li>
      <!--Nur' Ain-->
-     <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+     <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
          <div class="inline-block" style="height: 200px;">
            <figure style = "margin:auto;text-align:center;">
            <!--img-->
@@ -36,7 +36,7 @@
          </div>
      </li> 
      <!--Bao Quyen-->
-     <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+     <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
@@ -48,7 +48,7 @@
       </div>
      </li>  
      <!--Jolene-->
-     <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+     <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
@@ -60,7 +60,7 @@
       </div>
      </li> 
      <!--Eugene-->
-     <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+     <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
@@ -72,7 +72,7 @@
       </div>
      </li> 
      <!--Aimee-->
-     <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+     <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
@@ -84,7 +84,7 @@
       </div>
       </li> 
       <!--Matas-->
-      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+      <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
@@ -96,7 +96,7 @@
          </div>
       </li> 
       <!--Jessica-->
-      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+      <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
         <div class="inline-block" style="height: 200px;">
           <figure style = "text-align:center;">
           <!--img-->
@@ -108,7 +108,7 @@
         </div>
       </li> 
       <!--Jolyn -->
-      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
+      <li class="col-10 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
