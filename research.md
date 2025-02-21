@@ -8,15 +8,15 @@
         <b> We integrate classical biology with cutting-edge single-cell spatial omics technologies to tackle some of the most complex human brain disorders that plague humans. We are excited about developing molecular tools that allow us to probe the birth, function and demise of brain cells in diseased conditions. </b>
 <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
               (a) Neurodevelopment
-      <b>How the brain develops shapes a huge part of our identity. We ask how biological processes can introduce variation into neurodevelopmental conditions and seek cellular interactions that are dysregulated using patient-derived organoid models. </b>
+      <p>How the brain develops shapes a huge part of our identity. We ask how biological processes can introduce variation into neurodevelopmental conditions and seek cellular interactions that are dysregulated using patient-derived organoid models. </p>
       
 
 <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
         (b) Neurodegeneration
-      <b>Neurodegenerative disorders often compromise active ageing. We seek to identify cells and interactions that can be intervened to slow down disease progression using human-relevant model systems. </b>
+      <p>Neurodegenerative disorders often compromise active ageing. We seek to identify cells and interactions that can be intervened to slow down disease progression using human-relevant model systems. </p>
             
 <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">              
         (c) Tools development: mapping connections between brain cells
-      <b>When brain wiring goes awry, brain disease sets in. By tracing the wiring diagrams of the brain, we can find "short circuits" in diseased states and target them therapeutically. We are developing tools that allow us to build such maps with molecular resolution so that we can reach this goal within our lifetime.</b>
-      <b></b>
+      <p>When brain wiring goes awry, brain disease sets in. By tracing the wiring diagrams of the brain, we can find "short circuits" in diseased states and target them therapeutically. We are developing tools that allow us to build such maps with molecular resolution so that we can reach this goal within our lifetime.</p>
+      <br></br>
 </div>
