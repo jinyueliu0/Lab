@@ -23,18 +23,7 @@
             <p style="text-align:center; line-height:1;">Principal Investigator</p>
           </div>
       </li>
-     <!--Member 2-->
-     <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-         <div class="inline-block" style="height: 200px;">
-           <figure style = "margin:auto;text-align:center;">
-           <!--img-->
-           <img src="resources/Nur'Ain.png" 
-           height="200px" class="img-responsive" alt="">
-           </figure>
-           <h3 style="text-align:center; line-height:1;">Nur' Ain Binte Ali</h3>
-           <p style="text-align:center; line-height:1;">Senior Research Officer</p>
-         </div>
-     </li> 
+
      <!--Member 3-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
@@ -47,6 +36,7 @@
         <p style="text-align:center; line-height:1;">Research fellow</p>
       </div>
      </li>  
+     
      <!--Member 4-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
@@ -59,6 +49,7 @@
         <p style="text-align:center; line-height:1;">Senior Research Officer</p>
       </div>
      </li> 
+     
      <!--Member 5-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
@@ -73,6 +64,7 @@
      </li> 
     </ul>         
    <ul class="row" style="margin:20px 0;">
+    
      <!--Member 6-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
@@ -85,6 +77,7 @@
         <p style="text-align:center; line-height:1;">Lab Officer</p>
       </div>
       </li> 
+      
       <!--Member 7-->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
@@ -97,18 +90,7 @@
          <p style="text-align:center; line-height:1;">Research Officer</p>
          </div>
       </li> 
-      <!--Member 8-->
-      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-        <div class="inline-block" style="height: 200px;">
-          <figure style = "text-align:center;">
-          <!--img-->
-          <img src="resources/Jessica_Xie.png" height="200px" 
-          class="img-responsive" alt="">
-          </figure>
-          <h3 style="text-align:center; line-height:1;">Jessica Xie Jiaxin</h3>
-          <p style="text-align:center; line-height:1;">Research Fellow</p>
-        </div>
-      </li> 
+      
       <!--Member 9 -->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
@@ -121,6 +103,7 @@
          <p style="text-align:center; line-height:1;">Student Attachment</p>
        </div>
       </li>
+    
     <!--Member 10 -->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
