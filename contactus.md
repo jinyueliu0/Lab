@@ -12,6 +12,7 @@ p{color:white !important;}
 
  **We are located at Genome Institute of Singapore, 60 Biopolis St, Singapore 138672**
 
+<div>
       <p class="researchtext" style="color: white; text-align:left; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="4">
        If you are interested in developing spatial transcriptomics technologies for neurobiology applications, join us! Successful candidates will lead and execute the development of novel assays to characterize cellular and molecular changes in brain disorders. Contact liu_jinyue@gis.a-star.edu.sg 
       </p>
@@ -23,3 +24,4 @@ p{color:white !important;}
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br /> 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Able to independently design, execute and troubleshoot experiments <br /> </font>
       </p>   
+</div>
