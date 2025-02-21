@@ -5,18 +5,13 @@
 <!--text and image-->
 <div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:auto; width:auto">
       <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
-        <b>We seek to understand the molecular mechanisms that give rise to brain disorders, so as to open new doors for therapeutics. To achieve this, we apply and develop nucleic-acid based technologies on patient-derived model systems, and map dysfunctional interactions between brain cells.</b>
-      <p> <font size="4"> &nbsp; </p> </p>
-      <p class="researchtext" style="color: white; text-align:left; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="4">
-       If you are interested in developing spatial transcriptomics technologies for neurobiology applications, join us! Successful candidates will lead and execute the development of novel assays to characterize cellular and molecular changes in brain disorders. Contact liu_jinyue@gis.a-star.edu.sg 
-      </p>
-      <p class="researchtext" style="color: white; text-align:left; padding-left: 100px; padding-right: 100px; padding-bottom: 40px">
-        Requirements: <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Ph.D. in Neurobiology, Molecular & Cell Biology or related disciplines <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Demonstrated expertise in stem cell culture, fluorescence microscopy, histology and molecular cloning <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Experience in bioinformatics or transcriptomics is highly desirable <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br /> 
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Able to independently design, execute and troubleshoot experiments <br /> </font>
-      </p>   
+        <b> We integrate classical biology with cutting-edge single-cell spatial omics technologies to tackle some of the most complex human brain disorders that plague humans. We are excited about developing molecular tools that allow us to probe the birth, function and demise of brain cells in diseased conditions. 
+        (a) Neurodevelopment
+              How the brain 
+              
+        (b) Neurodegeneration
+              
+        (c) Tools development: mapping connections between brain cells
+              When brain wiring goes awry, brain disease sets in. By tracing the wiring diagrams of the brain, we can find "short circuits" in diseased states and target them therapeutically. We are developing tools that allow us to build such maps with molecular resolution so that we can reach this goal within our lifetime.</b>
       
 </div>
