@@ -17,7 +17,7 @@
             <figure style="margin:auto;text-align:center;">
             <!--img-->
             <img src="resources/Liu Jinyue.png"  
-            height="200px" class="img-responsive" " alt="">
+            height="200px" class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center; line-height:1;">Jinyue Liu</h3>
             <p style="text-align:center; line-height:1;">Principal Investigator</p>
@@ -40,8 +40,8 @@
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
-        <img src="resources/Jolene_Goh.png" height="200px"
-        class="img-responsive" alt="">
+        <img src="resources/Jolene_Goh.png" 
+         height="200px" class="img-responsive" alt="">
         </figure>
         <h3 style="text-align:center; line-height:1;">Jolene Goh</h3>
         <p style="text-align:center; line-height:1;">Senior Research Officer</p>
@@ -52,8 +52,8 @@
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
-        <img src="resources/Eugene_Kwa.png" height="200px"
-        class="img-responsive" alt="">
+        <img src="resources/Eugene_Kwa.png" 
+         height="200px" class="img-responsive" alt="">
         </figure>
         <h3 style="text-align:center; line-height:1;">Eugene Kwa Jing</h3>
         <p style="text-align:center; line-height:1;">Research Fellow</p>
@@ -64,8 +64,8 @@
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
         <!--img-->
-        <img src="resources/Aimee_Tapoan.png" height="200px" 
-        class="img-responsive" alt="">
+        <img src="resources/Aimee_Tapoan.png" 
+         height="200px" class="img-responsive" alt="">
         </figure>
         <h3 style="text-align:center; line-height:1;">Aimee Tapoan</h3>
         <p style="text-align:center; line-height:1;">Lab Officer</p>
@@ -76,8 +76,8 @@
        <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
-         <img src="resources/Matas_Vitkauskas.png" height="200px" 
-         class="img-responsive" alt="">
+         <img src="resources/Matas_Vitkauskas.png" 
+          height="200px" class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center; line-height:1;">Matas Vitkauskas</h3>
          <p style="text-align:center; line-height:1;">Research Officer</p>
@@ -88,8 +88,8 @@
        <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
          <!--img-->
-         <img src="resources/Jolyn_Lim.png" height="200px"
-         class="img-responsive" alt="">
+         <img src="resources/Jolyn_Lim.png" 
+          height="200px" class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center; line-height:1;">Jolyn Lim</h3>
          <p style="text-align:center; line-height:1;">AGS Ph.D. candidate</p>
