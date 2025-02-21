@@ -9,10 +9,12 @@
         
               
         (a) Neurodevelopment
-              How the brain develops shapes a huge part of our identity. We ask how biological processes can introduce variation into neurodevelopmental conditions using patient-derived organoid models.  
+              
+              How the brain develops shapes a huge part of our identity. We ask how biological processes can introduce variation into neurodevelopmental conditions and seek cellular interactions that are dysregulated using patient-derived organoid models. 
     
         (b) Neurodegeneration
-              
+             
+            Neurodegenerative disorders often compromise active ageing. We seek to identify cells and interactions that can be intervened to slow down disease progression using human-relevant model systems. 
               
         (c) Tools development: mapping connections between brain cells
               
