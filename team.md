@@ -21,23 +21,21 @@
             </figure>
             <h3 style="text-align:center; line-height:1;">Jinyue Liu</h3>
             <p style="text-align:center; line-height:1;">Principal Investigator</p>
-       </div>
+          </div>
       </li>
-
      <!--Member 2-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-      <div class="inline-block" style="height: 200px;">
-        <figure style = "text-align:center;">
-        <!--img-->
-        <img src="resources/Quyen_Do.png" height="200px"
-        class="img-responsive" alt="">
-        </figure>
-        <h3 style="text-align:center; line-height:1;">Quyen Do</h3>
-        <p style="text-align:center; line-height:1;">Research fellow</p>
-      </div>
+         <div class="inline-block" style="height: 200px;">
+           <figure style = "margin:auto;text-align:center;">
+           <!--img-->
+           <img src="resources/Quyen_Do.png" 
+           height="200px" class="img-responsive" alt="">
+           </figure>
+           <h3 style="text-align:center; line-height:1;">Quyen Do</h3>
+           <p style="text-align:center; line-height:1;">Research fellow</p>
+         </div>
      </li>  
-     
-     <!--Member 3-->
+     <!--Member 2-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
@@ -49,8 +47,7 @@
         <p style="text-align:center; line-height:1;">Senior Research Officer</p>
       </div>
      </li> 
-     
-     <!--Member 5-->
+     <!--Member 3-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
@@ -64,7 +61,6 @@
      </li> 
     </ul>         
    <ul class="row" style="margin:20px 0;">
-    
      <!--Member 4-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
@@ -77,7 +73,6 @@
         <p style="text-align:center; line-height:1;">Lab Officer</p>
       </div>
       </li> 
-      
       <!--Member 5-->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
@@ -89,8 +84,7 @@
          <h3 style="text-align:center; line-height:1;">Matas Vitkauskas</h3>
          <p style="text-align:center; line-height:1;">Research Officer</p>
          </div>
-      </li> 
-      
+      </li>
       <!--Member 6 -->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
@@ -103,6 +97,5 @@
          <p style="text-align:center; line-height:1;">Student Attachment</p>
        </div>
       </li>
-    
     </ul>         
    </div>
