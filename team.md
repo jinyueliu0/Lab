@@ -21,10 +21,10 @@
             </figure>
             <h3 style="text-align:center; line-height:1;">Jinyue Liu</h3>
             <p style="text-align:center; line-height:1;">Principal Investigator</p>
-          </div>
+       </div>
       </li>
 
-     <!--Member 3-->
+     <!--Member 2-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
@@ -37,7 +37,7 @@
       </div>
      </li>  
      
-     <!--Member 4-->
+     <!--Member 3-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
@@ -65,7 +65,7 @@
     </ul>         
    <ul class="row" style="margin:20px 0;">
     
-     <!--Member 6-->
+     <!--Member 4-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
         <figure style = "text-align:center;">
@@ -78,7 +78,7 @@
       </div>
       </li> 
       
-      <!--Member 7-->
+      <!--Member 5-->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
@@ -91,7 +91,7 @@
          </div>
       </li> 
       
-      <!--Member 9 -->
+      <!--Member 6 -->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 200px;">
          <figure style = "text-align:center;">
@@ -104,10 +104,5 @@
        </div>
       </li>
     
-    <!--Member 10 -->
-      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-       <div class="inline-block" style="height: 200px;">
-       </div>
-      </li>
     </ul>         
    </div>
