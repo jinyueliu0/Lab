@@ -9,8 +9,6 @@ p{color:white !important;}
 
 <!--bold text-->
  **Join us and take a deep-dive into the brain! Contact liu_jinyue@gis.a-star.edu.sg**
-<!--text and image-->
-<div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:auto; width:auto">
       <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
       <p> <font size="4"> &nbsp; </p> </p>
       <p class="researchtext" style="color: white; text-align:left; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="4">
@@ -24,8 +22,7 @@ p{color:white !important;}
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br /> 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Able to independently design, execute and troubleshoot experiments <br /> </font>
       </p>   
-      
-</div>
+
 
 <!--bold text-->
  **We are located at Genome Institute of Singapore, 60 Biopolis St, Singapore 138672.** 
