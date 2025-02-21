@@ -6,7 +6,8 @@
 <div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:auto; width:auto">
       <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
         <b> We integrate classical biology with cutting-edge single-cell spatial omics technologies to tackle some of the most complex human brain disorders that plague humans. We are excited about developing molecular tools that allow us to probe the birth, function and demise of brain cells in diseased conditions. 
-        (a) Neurodevelopment
+        
+              (a) Neurodevelopment
               How the brain 
               
         (b) Neurodegeneration
