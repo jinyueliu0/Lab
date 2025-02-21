@@ -58,7 +58,9 @@
         <h3 style="text-align:center; line-height:1;">Eugene Kwa Jing</h3>
         <p style="text-align:center; line-height:1;">Research Fellow</p>
       </div>
-     </li> 
+     </li>
+     </ul>
+     <ul class="row" style="margin:20px 0;">
      <!--Member 4-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
