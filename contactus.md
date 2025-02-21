@@ -18,7 +18,7 @@ p{color:white !important;}
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br /> 
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Able to independently design, execute and troubleshoot experiments <br /> </font>
             </p>   
- <p>
+ <p class="researchtext" style="color: white; text-align:left; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="4">
        We are located at Genome Institute of Singapore, 60 Biopolis St, Singapore 138672.      
  </p>
 
