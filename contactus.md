@@ -9,6 +9,7 @@ p{color:white !important;}
 
 <!--bold text-->
  **Join us and take a deep-dive into the brain! Contact us at liu_jinyue@gis.a-star.edu.sg**
+ 
  **We are located at Genome Institute of Singapore, 60 Biopolis St, Singapore 138672**
  
 <div>
