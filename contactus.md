@@ -5,7 +5,7 @@
 <style>
 p{color:white !important;}
 </style>
-<p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
+<p class="researchtext" style="color: white; text-align:center; padding-top:10px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
       <p> <font size="4"> &nbsp; </p> </p>
             <p class="researchtext" style="color: white; text-align:left; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="4">
                   If you are interested in developing spatial transcriptomics technologies for neurobiology applications, join us! Successful candidates will lead and execute the development of novel assays to characterize cellular and molecular changes in brain disorders. Contact <b>liu_jinyue@gis.a-star.edu.sg</b>
