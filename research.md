@@ -9,9 +9,10 @@
         
               
         (a) Neurodevelopment
-              How the brain 
-              
+              How the brain develops shapes a huge part of our identity. We ask how biological processes can introduce variation into neurodevelopmental conditions using patient-derived organoid models.  
+    
         (b) Neurodegeneration
+              
               
         (c) Tools development: mapping connections between brain cells
               
