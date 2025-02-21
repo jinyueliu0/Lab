@@ -94,7 +94,7 @@
          class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center; line-height:1;">Jolyn Lim</h3>
-         <p style="text-align:center; line-height:1;">Student Attachment</p>
+         <p style="text-align:center; line-height:1;">AGS Ph.D. candidate</p>
        </div>
       </li>
     </ul>         
