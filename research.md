@@ -14,6 +14,7 @@
         (b) Neurodegeneration
               
         (c) Tools development: mapping connections between brain cells
+              
               When brain wiring goes awry, brain disease sets in. By tracing the wiring diagrams of the brain, we can find "short circuits" in diseased states and target them therapeutically. We are developing tools that allow us to build such maps with molecular resolution so that we can reach this goal within our lifetime.</b>
       
 </div>
