@@ -10,7 +10,7 @@
     <!--Meet out team-->
     <h3 style="text-align:center"> </h3>
     <!--List of teammates-->
-    <ul class="row" style="margin:50px 0;">
+    <ul class="row" style="margin:100px 0;">
       <!--Member 1-->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
           <div class="inline-block" style="height: 200px;">
@@ -60,7 +60,7 @@
       </div>
      </li>
      </ul>
-     <ul class="row" style="margin:50px 0;">
+     <ul class="row" style="margin:100px 0;">
      <!--Member 4-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
       <div class="inline-block" style="height: 200px;">
