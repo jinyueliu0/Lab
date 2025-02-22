@@ -12,11 +12,11 @@ p{color:white !important;}
             </p>
                   <p class="researchtext" style="color: white; text-align:left; padding-left: 100px; padding-right: 100px; padding-bottom: 40px">
                         Requirements: <br />
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Ph.D. in Neurobiology, Molecular & Cell Biology or related disciplines <br />
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Demonstrated expertise in stem cell culture, fluorescence microscopy, histology and molecular cloning <br />
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Experience in bioinformatics or transcriptomics is highly desirable <br />
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Good publication record <br /> 
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Able to independently design, execute and troubleshoot experiments <br /> </font>
+                        * Ph.D. in Neurobiology, Molecular & Cell Biology or related disciplines <br />
+                        * Demonstrated expertise in stem cell culture, fluorescence microscopy, histology and molecular cloning <br />
+                        * Experience in bioinformatics or transcriptomics is highly desirable <br />
+                        * Good publication record <br /> 
+                        * Able to independently design, execute and troubleshoot experiments <br /> </font>
             </p>   
  <p class="researchtext" style="color: white; text-align:left; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="4">
        We are located at Genome Institute of Singapore, 60 Biopolis St, Singapore 138672.      
