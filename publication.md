@@ -77,7 +77,7 @@ bioRxiv 2024.12.30.630828; doi: https://doi.org/10.1101/2024.12.30.630828
         </p>
       </div>
       <!--journal image-->
-      <div class="col-sm-6" style="padding-left:200px">
+      <div class="col-sm-6" style="padding-left:5px">
           <img src="resources/Liu and Sanes 2017 with cover.png" height=300px weight=225px> 
       </div>
     </div>
