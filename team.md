@@ -13,7 +13,7 @@
     <ul class="row" style="margin:100px 0;">
       <!--Member 1-->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-          <div class="inline-block" style="height: 400px;">
+          <div class="inline-block" style="height: 300px;">
             <figure style="margin:auto;text-align:center;">
             <!--img-->
             <img src="resources/Liu Jinyue.png"  
@@ -25,7 +25,7 @@
       </li>
      <!--Member 2-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-         <div class="inline-block" style="height: 200px;">
+         <div class="inline-block" style="height: 300px;">
            <figure style = "margin:auto;text-align:center;">
            <!--img-->
            <img src="resources/Quyen_Do.png" 
@@ -37,7 +37,7 @@
      </li>  
      <!--Member 2-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-      <div class="inline-block" style="height: 200px;">
+      <div class="inline-block" style="height: 300px;">
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Jolene_Goh.png" 
@@ -49,7 +49,7 @@
      </li> 
      <!--Member 3-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-      <div class="inline-block" style="height: 200px;">
+      <div class="inline-block" style="height: 300px;">
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Eugene_Kwa.png" 
@@ -63,7 +63,7 @@
      <ul class="row" style="margin:100px 0;">
      <!--Member 4-->
      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-      <div class="inline-block" style="height: 200px;">
+      <div class="inline-block" style="height: 300px;">
         <figure style = "text-align:center;">
         <!--img-->
         <img src="resources/Aimee_Tapoan.png" 
@@ -75,7 +75,7 @@
       </li> 
       <!--Member 5-->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-       <div class="inline-block" style="height: 200px;">
+       <div class="inline-block" style="height: 300px;">
          <figure style = "text-align:center;">
          <!--img-->
          <img src="resources/Matas_Vitkauskas.png" 
@@ -87,7 +87,7 @@
       </li>
       <!--Member 6 -->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-       <div class="inline-block" style="height: 200px;">
+       <div class="inline-block" style="height: 300px;">
          <figure style = "text-align:center;">
          <!--img-->
          <img src="resources/Jolyn_Lim.png" 
