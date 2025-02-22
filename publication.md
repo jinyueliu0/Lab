@@ -38,7 +38,7 @@ bioRxiv 2024.12.30.630828; doi: https://doi.org/10.1101/2024.12.30.630828
  <!--publications 4 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
-        <p> Singhal V., Chou N., Lee J.,<b>Liu J.</b>, Chock W.K., Lin L., Chang Y.C., Teo E., Lee H.K., Chen K.H., & Prabhakar S. (2022). BANKSY: A Spatial Omics Algorithm that Unifies Cell Type Clustering and Tissue Domain Segmentation. bioRxiv. https://doi.org/10.1101/2022.04.14.488259v1.
+        <p> Singhal V., Chou N., Lee J., <b>Liu J.</b>, Chock W.K., Lin L., Chang Y.C., Teo E., Lee H.K., Chen K.H., & Prabhakar S. (2022). BANKSY: A Spatial Omics Algorithm that Unifies Cell Type Clustering and Tissue Domain Segmentation. bioRxiv. https://doi.org/10.1101/2022.04.14.488259v1.
         </p>
   </div>
 <hr style="border:2px solid gray;"> </hr>
@@ -72,7 +72,7 @@ bioRxiv 2024.12.30.630828; doi: https://doi.org/10.1101/2024.12.30.630828
     <div class="row">
       <div class="col-sm-6" >
         <!--publication text-->
-        <p> <br><br><br><b>Liu J.</b> and Sanes J.R. Cellular and molecular analysis of dendritic morphogenesis in a retinal cell type that senses color contrast and ventral motion. Journal of Neuroscience, 2017 Dec; 37(50) 12247-12262. https://doi.org/10.1523/JNEUROSCI.2098-17.2017.
+        <p> <b>Liu J.</b> and Sanes J.R. Cellular and molecular analysis of dendritic morphogenesis in a retinal cell type that senses color contrast and ventral motion. Journal of Neuroscience, 2017 Dec; 37(50) 12247-12262. https://doi.org/10.1523/JNEUROSCI.2098-17.2017.
          <br><i>Featured on journal cover and chapter cover in Principles of Neural Science, 6e edited by Eric Kandel et al.</i>
         </p>
       </div>
