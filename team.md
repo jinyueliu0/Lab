@@ -13,7 +13,7 @@
     <ul class="row" style="margin:100px 0;">
       <!--Member 1-->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-          <div class="inline-block" style="height: 200px;">
+          <div class="inline-block" style="height: 400px;">
             <figure style="margin:auto;text-align:center;">
             <!--img-->
             <img src="resources/Liu Jinyue.png"  
