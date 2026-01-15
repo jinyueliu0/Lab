@@ -4,7 +4,7 @@
 <!--publications 0 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
-        <p>Jessica Jiaxin Xie*, Matas Vitkauskas*, Quyen Do, Tzuen Yih Saw, Alfred Xuyang Sun, Lin Yang, Tuck Wah Soong, Kah Leong Lim, Eng-King Tan, Huck-Hui Ng# & Jinyue Liu#. Single-cell transcriptomics revealed molecular vulnerability in a human midbrain-like organoid model of Parkinson's Disease. iScience 2026 Jan 10 https://doi.org/10.1016/j.isci.2026.114674
+        <p>Jessica Jiaxin Xie*, Matas Vitkauskas*, Quyen Do, Tzuen Yih Saw, Alfred Xuyang Sun, Lin Yang, Tuck Wah Soong, Kah Leong Lim, Eng-King Tan, Huck-Hui Ng# & <b>Jinyue Liu </b>#. Single-cell transcriptomics revealed molecular vulnerability in a human midbrain-like organoid model of Parkinson's Disease. iScience 2026 Jan 10 https://doi.org/10.1016/j.isci.2026.114674
         </p>
   </div>
 <hr style="border:2px solid gray"> </hr>
