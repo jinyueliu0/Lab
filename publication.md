@@ -4,6 +4,14 @@
 <!--publications 0 without image, simple markdown text-->
  <div style="margin-left:15px">
         <!--publication text-->
+        <p>Jessica Jiaxin Xie*, Matas Vitkauskas*, Quyen Do, Tzuen Yih Saw, Alfred Xuyang Sun, Lin Yang, Tuck Wah Soong, Kah Leong Lim, Eng-King Tan, Huck-Hui Ng# & Jinyue Liu#. Single-cell transcriptomics revealed molecular vulnerability in a human midbrain-like organoid model of Parkinson's Disease. iScience 2026 Jan 10 https://doi.org/10.1016/j.isci.2026.114674
+        </p>
+  </div>
+<hr style="border:2px solid gray"> </hr>
+ 
+<!--publications 0 without image, simple markdown text-->
+ <div style="margin-left:15px">
+        <!--publication text-->
         <p>Isoform-level discovery, quantification and fusion analysis from single-cell and spatial long-read RNA-seq data with Bambu-Clump
 Andre Sim, Min Hao Ling, Ying Chen, Han Lu, Yi Xiang See, Arnaud Perrin, Ong Bee Leng Agnes, Elaine Yiqun Cao, Burton Chia, <b>Jinyue Liu </b>, Torsten Wüstefeld, Jay W. Shin, Jonathan Göke
 bioRxiv 2024.12.30.630828; doi: https://doi.org/10.1101/2024.12.30.630828
