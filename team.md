@@ -73,19 +73,7 @@
         <p style="text-align:center; line-height:1;">Lab Officer</p>
       </div>
       </li> 
-      <!--Member 5-->
-      <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
-       <div class="inline-block" style="height: 300px;">
-         <figure style = "text-align:center;">
-         <!--img-->
-         <img src="resources/Matas_Vitkauskas.png" 
-          height="200px" class="img-responsive" alt="">
-         </figure>
-         <h3 style="text-align:center; line-height:1;">Matas Vitkauskas</h3>
-         <p style="text-align:center; line-height:1;">Research Officer</p>
-         </div>
-      </li>
-      <!--Member 6 -->
+      <!--Member 5 -->
       <li class="col-12 col-md-2 col-lg-2" style="list-style-type: none">
        <div class="inline-block" style="height: 300px;">
          <figure style = "text-align:center;">
