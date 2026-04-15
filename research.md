@@ -5,21 +5,21 @@
 <!--text and image-->
 <div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:auto; width:auto">
       <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
-        <b> We integrate classical biology with cutting-edge single-cell spatial omics technologies to tackle some of the most complex human brain disorders that plague humans. We are excited about developing molecular tools that allow us to probe the birth, function and demise of brain cells. </b>
+        <b> We build and apply molecular technologies to decode the spatial logic of brain patterning—from development through ageing and disease. By integrating classical neurobiology with single-cell and spatial omics, we study how brain organization emerges from interacting cell states, and how it breaks down in brain disorders.</b>
 <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
-              (a) Neurodevelopment
+              (a) Technology Development
       <p class="researchtext" style="color: white; text-align:center; padding-top:20px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
-            How the brain develops shapes a huge part of our lives. We ask how biological processes can introduce variation into neurodevelopmental conditions and seek cellular interactions that are dysregulated using patient-derived organoid models. </p>
+            We are developing an RNA-based technology to map the brain’s complex neural circuits, tracing how different brain cells connect and communicate. Using molecular barcoding paired with advanced genomics, we seek to decode brain connectivity and how neural circuits change in conditions such as autism, dementia and mental health challenges — driving insights that could lead to earlier diagnosis, more targeted interventions and ultimately, healthier ageing for everyone. </p>
       
 
 <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
-        (b) Neurodegeneration
+        (b) Neurodevelopment
       <p class="researchtext" style="color: white; text-align:center; padding-top:20px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
-            Neurodegenerative disorders often compromise active ageing. We seek to identify cells and interactions that can be intervened to slow down disease progression using human-relevant model systems. </p>
+            Autism spectrum disorder (ASD) is clinically and genetically heterogeneous, and its developmental origins remain poorly understood. Using patient-derived brain organoids combined with spatial and single-cell transcriptomics, we found that early cortical organization is disrupted in a spatially mosaic manner and are associated with impaired cellular adhesion programs in progenitor populations. Our work suggests that ASD may involve early, spatially patterned disruptions in brain cellular architecture, offering a framework to explain variability in clinical presentation and neuroanatomy. </p>
             
 <p class="researchtext" style="color: white; text-align:center; padding-top:40px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">              
-        (c) Tools development: mapping brain connections
+        (c) Neurodegeneration
       <p class="researchtext" style="color: white; text-align:center; padding-top:20px; padding-left: 40px; padding-right: 40px; line-height: 1.2"> <font size="5">
-            When brain wiring goes awry, brain disease sets in. By tracing the wiring diagrams of the brain, we can find "short circuits" in diseased states and target them therapeutically. We are developing tools that allow us to build such maps with molecular resolution so that we can reach this goal within our lifetime.</p>
+            Ageing is the strongest risk factor for neurodegenerative disease. We use human brain organoids and postmortem brains as model systems to study ageing and neurodegenerative mechanisms. We have previously identified, through deep single-cell profiling of human midbrain-like organoids, multiple dopamine neuron subtypes that map onto molecular axes of vulnerability observed in Parkinson's disease. We continue to pursue how ageing factors and intrinsic cellular states may drive ageing and neurodegeneration.  </p>
       <br></br>
 </div>
