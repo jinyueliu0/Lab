@@ -2,6 +2,12 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
 <!--news 1 with normal links-->
+  * Congratulations to Jinyue for her L’Oréal-UNESCO Fellowship for Women in Science award 2025!
+  
+     * https://www.a-star.edu.sg/gis/news-events/awards-old/2025-articles/awards/awards-2025/gis-researcher-bags-prestigious-l-or%C3%A9al-unesco-fellowship-for-women-in-science-award
+  ---
+
+<!--news 1 with normal links-->
   * The Mind Cartographer: Learn about Jinyue's journey in brain research in A*STAR Research. 
   
      * https://research.a-star.edu.sg/articles/features/the-mind-cartographer/ 
