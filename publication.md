@@ -4,7 +4,7 @@
 <!--publications 0 without image, simple markdown text-->
 <div style="margin-left:15px">
         <!--publication text-->
-        <p> Lin L, Saw TY, Chou N, Goh JJL, Kwa EJ, Chock WK, Singhal V, Li Z, Huang MJ, Ng HH, Khor CC, Lee HK, Chen KH, Prabhakar S#, Liu J#. Spatial architecture of autism pathogenesis reveals mosaic structural disarray during early development. Nature Communications 2026. https://doi-org.ejproxy.a-star.edu.sg/10.1038/s41467-026-74320-5
+        <p> Lin L, Saw TY, Chou N, Goh JJL, Kwa EJ, Chock WK, Singhal V, Li Z, Huang MJ, Ng HH, Khor CC, Lee HK, Chen KH, Prabhakar S#, <b>Liu J</b>#. Spatial architecture of autism pathogenesis reveals mosaic structural disarray during early development. Nature Communications 2026. https://doi-org.ejproxy.a-star.edu.sg/10.1038/s41467-026-74320-5
         </p>
   </div>
 <hr style="border:2px solid gray"> </hr>
