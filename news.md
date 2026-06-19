@@ -12,7 +12,7 @@
   ---
 
 <!--news 1 with normal links-->
-  * The Mind Cartographer: Learn about Jinyue's journey in brain research in Decemeber 2022 issue of A*STAR Research. 
+  * The Mind Cartographer: Learn about Jinyue's journey in brain research in the December 2022 issue of A*STAR Research. 
   
      * https://research.a-star.edu.sg/articles/features/the-mind-cartographer/ 
   ---
