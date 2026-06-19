@@ -8,13 +8,17 @@
   ---
 
 <!--news 1 with normal links-->
-  * The Mind Cartographer: Learn about Jinyue's journey in brain research in A*STAR Research. 
+  * Congratulations to Eugene, Matas and Jolyn for winning 2nd place at the 10x Genomics Spatial Transcriptomics Hackathon 2024!
+  ---
+
+<!--news 1 with normal links-->
+  * The Mind Cartographer: Learn about Jinyue's journey in brain research in Decemeber 2022 issue of A*STAR Research. 
   
      * https://research.a-star.edu.sg/articles/features/the-mind-cartographer/ 
   ---
 
 <!--news 1 with normal links-->
-  * Congratulations to Jinyue for making it onto the Singapore 100 Women in Tech List!  
+  * Congratulations to Jinyue for being named to Singapore's 100 Women in Tech List 2021!  
   
      * [On SG100WIT 2021 List - Citations - Singapore Computer Society (scs.org.sg)](https://www.scs.org.sg/sg100wit-2021-list-citations)
      * [On Linkedin](https://www.linkedin.com/posts/singapore-computer-society_the-singapore-100-women-in-tech-sg100wit-activity-6854618731985936384-Hcj8)
